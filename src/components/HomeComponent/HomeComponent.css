@@ -1,0 +1,41 @@
+.header{
+    height: 100vh;
+    background: linear-gradient(to top, var(--gradient-red), var(--gradient-blue)) ;
+    color: var(--white);
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.hero{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+}
+.hero-titles h1{
+    font-size: 64px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.hero-titles span{
+    color: var(--red);
+}
+.hero-titles p {
+    font-size: 36px;
+    color: var(--grey);
+}
+
+.hero-image{
+    display: grid;
+    justify-content: center;
+}
+.hero-image img{
+    height: 494px;
+    border-radius: 2rem;
+    transform: scale(0.95);
+    opacity: 0.8;    
+    transition: all 0.3s ease-out;
+}
+.hero-image img:hover {
+    transform: scale(1);
+    opacity: 1; 
+}

@@ -1,0 +1,43 @@
+.navbar{
+    display: grid;
+    grid-auto-flow: column;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+
+    justify-self: center;
+    height: 70px;
+    width: 100%;
+    border-bottom: 1px solid var(--grey);
+    padding: 0 2rem;
+    z-index: 99;
+    transition: all 0.5s ease;
+
+}
+.navbar a,
+.navhidden a{
+    color: var(--grey);
+    text-decoration: none;
+    padding: 0 1rem;
+}
+.navbar a:hover,
+.navhidden a:hover{
+    color: var(--white);
+}
+.navhidden {
+    display: grid;
+    grid-auto-flow: column;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+
+    justify-self: center;
+    height: 70px;
+    width: 100%;
+    border-bottom: 1px solid var(--grey);
+    padding: 0 2rem;
+    z-index: 99;
+    transition: all 0.5s ease;
+    background-color: #181414d3;
+}
+
