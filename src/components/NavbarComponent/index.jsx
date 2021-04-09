@@ -14,7 +14,7 @@ const NavbarComponent = ({ navHidden }) => {
                 </Link>
                 
                 <div>
-                    <Link id="" to="/">Home</Link>
+                    <Link id="" to="/framed">Home</Link>
                     <Link id="" to="/showcase">Showcase</Link>
                     <Link id="" to="/about">About</Link>
                 </div>
