@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/framed/static/css/main.bf5c5659.chunk.css",
-    "main.js": "/framed/static/js/main.cdc03ee5.chunk.js",
-    "main.js.map": "/framed/static/js/main.cdc03ee5.chunk.js.map",
-    "runtime-main.js": "/framed/static/js/runtime-main.2100902d.js",
-    "runtime-main.js.map": "/framed/static/js/runtime-main.2100902d.js.map",
-    "static/js/2.453881d8.chunk.js": "/framed/static/js/2.453881d8.chunk.js",
-    "static/js/2.453881d8.chunk.js.map": "/framed/static/js/2.453881d8.chunk.js.map",
-    "index.html": "/framed/index.html",
-    "static/css/main.bf5c5659.chunk.css.map": "/framed/static/css/main.bf5c5659.chunk.css.map",
-    "static/js/2.453881d8.chunk.js.LICENSE.txt": "/framed/static/js/2.453881d8.chunk.js.LICENSE.txt",
-    "static/media/ShowcaseComponent.css": "/framed/static/media/about_03.1f86401e.jpg",
-    "static/media/header-image.9ee415e8.jpg": "/framed/static/media/header-image.9ee415e8.jpg",
-    "static/media/logo.3bd78137.svg": "/framed/static/media/logo.3bd78137.svg"
+    "main.css": "/framed/home/static/css/main.6f718f0f.chunk.css",
+    "main.js": "/framed/home/static/js/main.cdc03ee5.chunk.js",
+    "main.js.map": "/framed/home/static/js/main.cdc03ee5.chunk.js.map",
+    "runtime-main.js": "/framed/home/static/js/runtime-main.0a09d49c.js",
+    "runtime-main.js.map": "/framed/home/static/js/runtime-main.0a09d49c.js.map",
+    "static/js/2.453881d8.chunk.js": "/framed/home/static/js/2.453881d8.chunk.js",
+    "static/js/2.453881d8.chunk.js.map": "/framed/home/static/js/2.453881d8.chunk.js.map",
+    "index.html": "/framed/home/index.html",
+    "static/css/main.6f718f0f.chunk.css.map": "/framed/home/static/css/main.6f718f0f.chunk.css.map",
+    "static/js/2.453881d8.chunk.js.LICENSE.txt": "/framed/home/static/js/2.453881d8.chunk.js.LICENSE.txt",
+    "static/media/ShowcaseComponent.css": "/framed/home/static/media/about_03.1f86401e.jpg",
+    "static/media/header-image.9ee415e8.jpg": "/framed/home/static/media/header-image.9ee415e8.jpg",
+    "static/media/logo.3bd78137.svg": "/framed/home/static/media/logo.3bd78137.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2100902d.js",
+    "static/js/runtime-main.0a09d49c.js",
     "static/js/2.453881d8.chunk.js",
-    "static/css/main.bf5c5659.chunk.css",
+    "static/css/main.6f718f0f.chunk.css",
     "static/js/main.cdc03ee5.chunk.js"
   ]
 }
